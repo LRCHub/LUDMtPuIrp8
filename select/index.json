@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴメンねメディスン",
+  "base_artist": "紫咲シオン",
+  "createdAt": "2025-12-12T20:10:07.590154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴメンねメディスン（Instrumental）",
+      "artist": "紫咲シオン",
+      "has_synced": false,
+      "path": "select/01_ゴメンねメディスン(Instrumental)_紫咲シオン.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴメンねメディスン",
+      "artist": "紫咲シオン",
+      "has_synced": false,
+      "path": "select/pl_01_ゴメンねメディスン_紫咲シオン.txt"
+    }
+  ]
+}
